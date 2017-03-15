@@ -20,6 +20,7 @@ public class DemoBeanTest {
 	
 	@Test
 	public void demoBeanProfilesTest(){
+		
 		System.out.println( "junit : " + demoBean.getContent() );
 	}
 	
